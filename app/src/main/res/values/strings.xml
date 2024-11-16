@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Assignment4</string>
+
+    <string-array name="item_array">
+        <item>Pastry</item>
+        <item>Croissant</item>
+        <item>Chocolate Shake</item>
+        <item>Cold Coffee</item>
+        <item>Strawberry Ice Cream</item>
+    </string-array>
+
+    <string-array name="item_array_subtitle">
+        <item>Pastry of all favors like- vanilla, chocolate, lemon are available
+        </item>
+        <item>We provide the fresh croissants.
+        </item>
+        <item>Fresh and yummy chocolate shake is available here.
+        </item>
+        <item>We provide fresh cold coffee.
+        </item>
+        <item>Fresh Strawberry flavoured ice cream is available.
+        </item>
+
+    </string-array>
 </resources>
